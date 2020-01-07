@@ -1,5 +1,7 @@
 # TEST1
-這是一個測試
+這是一個測試<br>
+this is 2th test.<br>
+this is 3rd test.
 - - -
 
 ## 前言:
@@ -26,6 +28,7 @@
 
 ## 功能影片:
 * ~VEDIO~
+* <iframe src=https://www.youtube.com/watch?v=ixNvGhTQ70Y width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 - - -
 
 ## 參考:
