@@ -27,7 +27,7 @@ this is 3rd test.
 - - -
 
 ## 功能影片:
-* [~VEDIO~](https://www.youtube.com/watch?v=ixNvGhTQ70Y)
+* [~VEDIO~](https://www.youtube.com/watch?v=ixNvGhTQ70Y target="_blank")
 - - -
 
 ## 參考:
