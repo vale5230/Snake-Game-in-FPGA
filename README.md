@@ -1,6 +1,6 @@
 # TEST1
 這是一個測試<br>
-*this is 2th test.*<br>
+this is 2th test.<br>
 this is 3rd test.
 - - -
 
