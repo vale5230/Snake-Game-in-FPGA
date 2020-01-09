@@ -28,7 +28,7 @@
 - - -
 
 ## 功能影片:
-* [~VEDIO~](https://www.youtube.com/watch?v=ixNvGhTQ70Y)
+* [~VEDIO~](https://www.youtube.com/watch?v=ixNvGhTQ70Y^^)
 - - -
 
 ## Pin腳位:
@@ -40,14 +40,14 @@
     <th>備註</th>
   </tr>
   <tr>
-    <td>5</td>
-    <td>6</td>
-    <td>7</td>
+    <td>#</td>
+    <td>*</td>
+    <td>-</td>
   </tr>
   <tr>
-    <td>8</td>
-    <td>9</td>
-    <td>10</td>
+    <td>#</td>
+    <td>*</td>
+    <td>-</td>
   </tr>
 </table>
 
