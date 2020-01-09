@@ -17,6 +17,7 @@ this is 3rd test.
 * 1. [/功能](/README.md#功能)
 * 2. [/功能影片](/README.md#功能影片)
 * 3. [/參考](/README.md#參考)
+* 4. [/Pin腳位](/README.md#Pin腳位)
 - - -
 
 ## 功能:
@@ -28,6 +29,27 @@ this is 3rd test.
 
 ## 功能影片:
 * [~VEDIO~](https://www.youtube.com/watch?v=ixNvGhTQ70Y)
+- - -
+
+## Pin腳位:
+`使用EP3C10E144C8`
+<table>
+  <tr>
+    <th>參數名稱</th>
+    <th>Pin腳位</th>
+    <th>備註</th>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>9</td>
+    <td>10</td>
+  </tr>
+</table>
 - - -
 
 ## 參考:
