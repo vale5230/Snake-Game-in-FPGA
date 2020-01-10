@@ -1,6 +1,7 @@
 # 貪食蛇
 一款經典的遊戲<br>
 呈現在FPGA上<br>
+(/blob/master/IMAG1091.jpg)
 
 - - -
 
