@@ -55,5 +55,5 @@
 - - -
 
 ## 參考:
-* https://github.com/8BitApple/VerilogSnake
+* NULL
 - - -
