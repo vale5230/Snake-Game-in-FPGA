@@ -1,7 +1,12 @@
 # 貪食蛇
 一款經典的遊戲<br>
 呈現在FPGA上<br>
-(/blob/master/IMAG1091.jpg)
+* 整體介面，使用4-bits Switch來控制方向，暫停的選項是8 DIPSW的紅色第3個開關
+![IMAGE](https://github.com/vale5230/Snake-Game-in-FPGA/blob/master/IMAG1095.jpg)
+* 按下任意方向後，遊戲開始
+![IMAGE](https://github.com/vale5230/Snake-Game-in-FPGA/blob/master/IMAG1093.jpg)
+* 當玩到超過8分之後，蛇由藍色轉成綠色
+![IMAGE](https://github.com/vale5230/Snake-Game-in-FPGA/blob/master/IMAG1091.jpg)
 
 - - -
 
@@ -17,8 +22,8 @@
 ## 目錄:
 * 1. [/功能](/README.md#功能)
 * 2. [/功能影片](/README.md#功能影片)
-* 3. [/參考](/README.md#參考)
-* 4. [/Pin腳位](/README.md#Pin腳位)
+* 3. [/Pin腳位](/README.md#Pin腳位)
+* 4. [/參考](/README.md#參考)
 - - -
 
 ## 功能:
@@ -31,10 +36,12 @@
 - - -
 
 ## 功能影片:
-* [~VEDIO~](https://www.youtube.com/watch?v=ixNvGhTQ70Y^^)
+* https://youtu.be/Gzqs3jqkkKE
 - - -
 
 ## Pin腳位:
+![IMAGE](https://github.com/vale5230/Snake-Game-in-FPGA/blob/master/PIN.JPG)
+
 `使用EP3C10E144C8`
 <table>
   <tr>
