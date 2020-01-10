@@ -35,19 +35,34 @@
 `使用EP3C10E144C8`
 <table>
   <tr>
-    <th>參數名稱</th>
-    <th>Pin腳位</th>
+    <th>操控功能</th>
+    <th>控制元件</th>
     <th>備註</th>
   </tr>
   <tr>
-    <td>#</td>
-    <td>*</td>
-    <td>-</td>
+    <td>上</td>
+    <td>S1</td>
+    <td>在4 BITS SW</td>
   </tr>
   <tr>
-    <td>#</td>
-    <td>*</td>
-    <td>-</td>
+    <td>下</td>
+    <td>S2</td>
+    <td>在4 BITS SW</td>
+  </tr>
+  <tr>
+    <td>左</td>
+    <td>S3</td>
+    <td>在4 BITS SW</td>
+  </tr>
+  <tr>
+    <td>右</td>
+    <td>S4</td>
+    <td>在4 BITS SW</td>
+  </tr>
+  <tr>
+    <td>暫停</td>
+    <td>紅色第3號</td>
+    <td>在8 DIPSW</td>
   </tr>
 </table>
 
